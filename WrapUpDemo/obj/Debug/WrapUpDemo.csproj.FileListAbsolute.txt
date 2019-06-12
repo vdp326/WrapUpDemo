@@ -1,0 +1,7 @@
+C:\Users\vupha\Desktop\C#\timcorey\Foundation series 1 - 6\6\WrapUpDemoApp\WrapUpDemo\bin\Debug\WrapUpDemo.exe.config
+C:\Users\vupha\Desktop\C#\timcorey\Foundation series 1 - 6\6\WrapUpDemoApp\WrapUpDemo\bin\Debug\WrapUpDemo.exe
+C:\Users\vupha\Desktop\C#\timcorey\Foundation series 1 - 6\6\WrapUpDemoApp\WrapUpDemo\bin\Debug\WrapUpDemo.pdb
+C:\Users\vupha\Desktop\C#\timcorey\Foundation series 1 - 6\6\WrapUpDemoApp\WrapUpDemo\obj\Debug\WrapUpDemo.csprojAssemblyReference.cache
+C:\Users\vupha\Desktop\C#\timcorey\Foundation series 1 - 6\6\WrapUpDemoApp\WrapUpDemo\obj\Debug\WrapUpDemo.csproj.CoreCompileInputs.cache
+C:\Users\vupha\Desktop\C#\timcorey\Foundation series 1 - 6\6\WrapUpDemoApp\WrapUpDemo\obj\Debug\WrapUpDemo.exe
+C:\Users\vupha\Desktop\C#\timcorey\Foundation series 1 - 6\6\WrapUpDemoApp\WrapUpDemo\obj\Debug\WrapUpDemo.pdb
